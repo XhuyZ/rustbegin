@@ -1,7 +1,7 @@
 use std::io::{self, Write};
 
 fn main() {
-    println!("🔢 Simple Calculator - Version 0.1");
+    println!("🔢 Simple Calculator1 - Version 0.1");
     // Nhập số thứ nhất
     let num1 = read_number("Enter the first number: ");
     // Nhập số thứ hai
